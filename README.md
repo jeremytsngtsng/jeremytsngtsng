@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeremytsngtsng
 - 👀 I’m interested in all things crypto and web3. I'm also passionated in computer visions and machine learning.
-- 🌱 I’m currently learning smart contracts.
-- 💞️ I’m looking to collaborate on Crypto related projects.
+<!-- - 🌱 I’m currently learning smart contracts. -->
+<!-- - 💞️ I’m looking to collaborate on crypto and web3 related projects. -->
 - 📫 Reach me through twitter dm [@jeremytsngtsng](https://twitter.com/jeremytsngtsng)
 
 <!---
